@@ -7,7 +7,7 @@ republish livox raw message to standard pointcloud2
 ```
 mkdir -p ~/catkin_ws_livox_repub/src
 cd ~/catkin_ws_livox_repub/src
-git clone https://github.com/kafeiyin00/livox_repub.git
+git clone https://github.com/zzwu29/livox_repub.git
 cd ..
 catkin_make
 ```
