@@ -48,7 +48,7 @@ rosrun pcl_ros bag_to_pcd <input_file.bag> <topic> <output_directory>
 
 topic to .pcd
 ```
-rosrun pcl_ros pointcloud_to_pcd input:=/point_cloud_topic _prefix:=./pcd_save_path
+rosrun pcl_ros pointcloud_to_pcd input:=/point_cloud_topic _prefix:=./pcd_save_path/
 ```
 
 ## visualize in RVIZ
